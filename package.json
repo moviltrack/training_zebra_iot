@@ -1,0 +1,17 @@
+{
+  "name": "training_zebra_iot",
+  "version": "1.0.0",
+  "description": "https://zebradevs.github.io/rfid-ziotc-docs/_downloads/9befffd338c6c2efa5cd13e14c6c8b7d/IoT%20Reader%20API%20Collection.postman_collection.json",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
